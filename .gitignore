@@ -1,3 +1,6 @@
 C:\Book Recommendation System
 C:\Book Recommendation System
-C:\Book Recommendation System
+C:\Book Recommendation Systemenv/
+venv/
+__pycache__/
+*.pycgit rm -r --cached env
