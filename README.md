@@ -42,8 +42,8 @@ Usage
 - requirements.txt : Project dependencies.
 
 🔮 Future Work
-- Implement Hybrid Recommendation Systems combining multiple approaches.
-- Develop a web interface using Flask or Django.
+- Implement  Recommendation System .
+- Develop a web interface using Streamlit.
 - Enhance user experience with interactive features.
 
  Contributing
